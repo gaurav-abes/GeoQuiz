@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="next_button_content_description">Next Button Pressed</string>
+    <string name="previous_button_content_description">Previous Button Pressed</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="total_score">Total Score is %1$d</string>
+    <string name="question_sachin">Sachin was a better Bastman than Kohli.</string>
+    <string name="question_studies">Studying is more important than enjoying.</string>
+    <string name="question_television">You should not watch Television from close by.</string>
+    <string name="question_work">Everyone one has to go to work once they grow up.</string>
+    <string name="question_food">Pizza is more tasty than Daal Roti.</string>
+</resources>
