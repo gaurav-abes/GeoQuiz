@@ -48,4 +48,11 @@
             android:src="@drawable/arrow_right"
             android:contentDescription="@string/next_button_content_description"/>
 
+    <Button
+        android:id="@+id/cheat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cheat_button"
+        android:layout_gravity="bottom|center"/>
+
 </FrameLayout>

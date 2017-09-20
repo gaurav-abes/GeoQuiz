@@ -14,4 +14,8 @@
     <string name="question_television">You should not watch Television from close by.</string>
     <string name="question_work">Everyone one has to go to work once they grow up.</string>
     <string name="question_food">Pizza is more tasty than Daal Roti.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is Wrong.</string>
 </resources>
